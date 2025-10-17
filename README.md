@@ -21,9 +21,9 @@ Pembuatan laporan dimulai dari file template (.jrxml) yang berisi struktur desai
 - JasperViewer → Komponen untuk menampilkan laporan di dalam aplikasi Java Swing.
 
 # Cara Instalasi
-<br> 1. Buka menu Tools di NetBeans. <br>
-<br> 2. Pilih Plugins → Downloaded → Add Plugins.... <br>
-<br> 3. Tambahkan plugin iReport dan org.jdesktop.layout, lalu lakukan instalasi.<br>
-<br> 4. Masukkan library JasperReports ke dalam project Java (contoh: jasperreports-x.x.x.jar). <br>
-<br> 5. Tambahkan dependensi pendukung seperti groovy-all.jar, commons-logging.jar, commons-collections.jar, dan lainnya. <br>
-<br> 6. Pastikan driver JDBC sesuai dengan database yang digunakan (misalnya postgresql-xx.jar). <br>
+1. Buka menu Tools di NetBeans. <br>
+2. Pilih Plugins → Downloaded → Add Plugins.... <br>
+3. Tambahkan plugin iReport dan org.jdesktop.layout, lalu lakukan instalasi.<br>
+4. Masukkan library JasperReports ke dalam project Java (contoh: jasperreports-x.x.x.jar). <br>
+5. Tambahkan dependensi pendukung seperti groovy-all.jar, commons-logging.jar, commons-collections.jar, dan lainnya. <br>
+6. Pastikan driver JDBC sesuai dengan database yang digunakan (misalnya postgresql-xx.jar). <br>
